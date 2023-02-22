@@ -6,7 +6,7 @@
 
 ### 📙 requests 库 + re 模块
 
-1. [10 行代码集 2000 张美女图，Python 爬虫 120 例，再上征途](https://dream.blog.csdn.net/article/details/117024328)
+1. [10 行代码集 2000 张美女图，Python 爬虫 120 例，再上征途](https://bornforthis.cn/column/crawler/Practical-operation/01-10-lines-of-code-set-2000-pictures-of-beautiful-women.html)
 2. [通过 Python 爬虫，发现 60%女装大佬游走在 cosplay 领域](https://dream.blog.csdn.net/article/details/117221667)
 3. [Python 千猫图，简单技术满足你的收集控](https://dream.blog.csdn.net/article/details/117458947)
 4. [熊孩子说“你没看过奥特曼”，赶紧用 Python 学习一下，没想到](https://dream.blog.csdn.net/article/details/117458985)

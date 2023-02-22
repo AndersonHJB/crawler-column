@@ -1,0 +1,19 @@
+对请求地址的参数进行整理与分析，得到如下结论。
+
+热门列表的数据URL为：https://baijiahao.baidu.com/builderinner/mobileui/hot/getHotList
+其中各个参数含义如下：
+method：请求方式；
+app_os_version：系统版本；
+app_os：系统名称；
+app_device_info：设备名称；
+app_version：APP版本号；
+channel：频道，这里使用的URL编码文字，例如 爆款=%E7%88%86%E6%AC%BE；
+base：未知，可删除；
+rn：接口返回的数据量，默认是 20，可以修改为更大数字；
+type：未知，可删除；
+time：时间戳，可删除；
+isRefresh：是否刷新，可删除；
+最终整理之后，接口参数的最简格式为 app_os=android&app_version=5.16.0.0&channel=爆款&rn=40&type=2 。
+————————————————
+版权声明：本文为CSDN博主「梦想橡皮擦」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/hihell/article/details/121181900

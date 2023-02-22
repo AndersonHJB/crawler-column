@@ -1,0 +1,4 @@
+请求地址已经得到：https://api.douguo.net/home/videos/0/15
+请求方式：POST
+
+该接口可以得到 MP4 视频资源

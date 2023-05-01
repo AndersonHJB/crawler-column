@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2023/2/23 16:34
+# @Author  : AI悦创
+# @FileName: index.py
+# @Software: PyCharm
+# @Blog    ：https://bornforthis.cn/
 import requests
 import re
 import time
